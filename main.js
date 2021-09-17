@@ -93,7 +93,7 @@ function left()
 	console.log("when left arrow is pressed x = " + greencar_x +" | y = "+ greencar_y)
 	uploadBackground();
 	uploadgreencar()
-}Define function to move the car left side
+}
 }
 
 function right()
